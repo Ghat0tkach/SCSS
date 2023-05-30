@@ -4,7 +4,7 @@ RELIVE THE MOMENTS!
 
 
 ## [Website](https://natourers.netlify.app/)
-![image](https://github.com/Ghat0tkach/Trilio/assets/59855919/b0723a93-f7a4-4b0b-950f-60947e61a247)
+![image](https://github.com/Ghat0tkach/SCSS/assets/59855919/418fb616-3566-430b-a373-b2ce26f47d38)
 
 
 
